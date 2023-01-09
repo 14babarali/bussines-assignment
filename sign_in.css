@@ -1,0 +1,492 @@
+
+.thatta {
+    animation: drop-in 1s ease 200ms backwards;
+}
+
+   
+   @keyframes drop-in {
+    from {
+     opacity: 0;
+     transform: translateY(-100px);
+     rotate: 10deg;
+    }
+    to {
+     opacity: 1;
+     transform: translate(0px);
+     rotate: 0deg;
+    } 
+   }
+
+  /* text animate */
+
+   
+
+
+/* 
+header */
+a.sign {
+    text-decoration: none;
+    font-family: sans-serif;
+    background: rgb(87 87 119);
+    color: white;
+    padding: 8px 24px;
+    position: relative;
+    right: 25px;
+    font-weight: 700;
+}
+
+nav {
+    position: relative;
+    display: flex;
+    width: 65em;
+    padding-left: 45px;
+    background-color: white;
+    left: -49px;
+    border-bottom:1px solid #323131;
+}
+
+
+
+
+li {
+    margin-right: 30px;
+    margin-left: 30px;
+    position: relative;
+    left: 39em;
+    top: 9px;
+}
+
+
+a.Trend {
+    font-size: 28px;
+    text-decoration: none;
+    color: #323131;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
+a.anchor {
+    text-decoration: none;
+    color: #323131;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
+
+li {
+    margin-bottom: -23px;
+    margin-top: 40px;
+    font-size: 15px;
+}
+
+
+ul.ul {
+    margin: 17px -373px;
+    list-style: none;
+    display: flex;
+    position: relative;
+    top: -39px;
+}
+/* 
+header */
+body {
+    overflow-x: hidden;
+}
+
+
+h1.class {
+    position: relative;
+    left: -21px;
+}
+
+ul.ul {
+    left: -46px;
+}
+
+
+img.img {
+    height: 77px;
+    width: 81px;
+}
+
+p.p {
+    position: relative;
+    left: 142px;
+    top: -71px;
+    font-size: 20px;
+}
+
+
+p.p {
+    left: 165px;
+    top: -61px;
+    font-family: sans-serif;
+    font-weight: 100;
+    letter-spacing: 1.5px;
+}
+
+img.img {
+    POSITION: RELATIVE;
+    left: 73px;
+    top: 12px;
+}
+
+
+
+
+.div1 {
+    left: -129px;
+    position: relative;
+}
+
+
+  
+
+.container {
+    max-width: 1280px;
+    width: 80%;
+    margin: auto;
+}
+
+
+/* 
+form */
+
+h1.song {
+    font-size: 54px;
+    font-weight: 100;
+    position: relative;
+    left: -33px;
+    top: -58px;
+}
+
+input#form {
+    border: none;
+    border-bottom: 1px black solid;
+    width: 398px;
+    font-size: 15px;
+    padding-top: 24px;
+}
+
+p.form {
+    position: relative;
+    left: -30px;
+    top: -65px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+input#form.checkit {
+    position: relative;
+    left: -189px;
+    height: 17px;
+    width: 403px;
+    top: 2px;
+}
+
+a.forgot {
+    color: black;
+    position: relative;
+    left: -307px;
+    font-size: 15px;
+    top: -3px;
+}
+
+button.btn {
+    padding: 10px 174px;
+    font-size: 17px;
+    border: none;
+    background-color: #313948;
+    color: white;
+    margin-top: 20px;
+}
+
+p.register {
+    position: relative;
+    left: -31px;
+    top: -52px;
+}
+
+a.create {
+    color: #313948;
+}
+
+
+
+.sing {
+    width: 43em;
+}
+
+.sing11 {
+    position: relative;
+    top: -123vh;
+    left: 134vh;
+}
+
+img.larkana {
+    width: 477px;
+    height: 572px;
+}
+
+button.btn {
+    padding: 18px 219px;
+}
+
+input#form {
+    width: 495px;
+}
+
+a.forgot {
+    left: -170px;
+}
+
+img.larkana2 {
+    position: relative;
+    left: 112px;
+    top: -190px;
+    width: 517px;
+    height: 371px;
+}
+
+
+/* fter */
+
+
+
+img.barish {
+    height: 31px;
+    width: 33px;
+    border-radius: 48px;
+}
+
+a.party {
+    top: 11px;
+    font-family: sans-serif;
+    position: relative;
+    font-size: 14px;
+}
+
+
+
+
+.fter {
+    background-color: #e4e4e4;
+}
+
+.flex {display: flex;flex-wrap: wrap;}
+
+p.rar {
+    margin: 22px 131px;
+}
+
+
+
+
+a.party {
+    top: 11px;
+    font-family: sans-serif;
+    position: relative;
+    font-size: 14px;
+}
+
+
+
+
+a.ttt {
+    text-decoration: none;
+    color: rgb(60 60 70);
+}
+
+a.ttt {
+    position: relative;
+    left: 130px;
+}
+
+.derive {
+    margin-bottom: 20px;
+}
+
+
+.rung {
+    display: flex;
+    background-color: #3a3a48;
+    width: 80em;
+    padding: 17px 58px;
+    position: relative;
+    left: -141px;
+    top: -117px;
+}
+
+a.rain {position: relative;left: 42em;}
+
+img.barish {
+    height: 17px;
+    width: 25px;
+    margin-right: 22px;
+}
+
+a.party {
+    margin-right: 32px;
+    text-decoration: none;
+    color: white;
+    
+    
+    
+}
+
+
+.fter {
+    height: 267px;
+    width: 55em;
+    padding: 84px 233px;
+    position: relative;
+    left: -138px;
+    top: -61px;
+}
+
+
+a.ttt {
+    text-decoration: none;
+    color: rgb(60 60 70);
+    position: relative;
+    left: 130px;
+
+    font-size: 21px;
+    top: -9px;
+}
+
+
+.derive {
+    margin-bottom: 20px;
+    font-family: sans-serif;
+}
+
+
+.rung {
+    display: flex;
+    background-color: #3a3a48;
+    width: 80em;
+    padding: 17px 58px;
+    position: relative;
+    left: -141px;
+    top: -117px;
+}
+
+a.rain {
+    position: relative;
+    left: 42em;
+}
+
+img.barish {
+    height: 17px;
+    width: 25px;
+    margin-right: 22px;
+    height: 24px;
+    
+}
+
+a.party {
+    margin-right: 32px;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.secndlast {
+    position: relative;
+    bottom: 169px;
+}
+
+.fter {
+    background-color: #e4e4e4;
+    padding-bottom: 149px;
+
+}
+
+.flex {display: flex;flex-wrap: wrap;}
+
+p.rar {
+    
+    font-size: 13px;
+    color: gray;
+    margin: 22px 131px;
+}
+
+
+.derive:nth-child(4) {
+    position: relative;
+    left: -24px;
+}
+
+
+
+
+
+h1.sms {font-weight: 100;font-size: 41px;position: relative;left: 121px;} 
+
+
+/* 
+fter */
+
+
+
+img.larkana {
+    position: relative;
+    left: -261px;
+    top: 268px;
+    width: 455px;
+    height: 505px;
+}
+
+.fter {
+    position: relative;
+    top: -461px;
+}
+
+img.larkana2 {
+    position: relative;
+    left: -616px;
+    top: 509px;
+    z-index: 1;
+}
+
+body {
+    color: #313948;
+}
+
+img.larkana2 {
+    height: 316px;
+    top: 456px;
+}
+
+
+.rung {
+    top: -523px;
+}
+
+.error {font-size: 5px;position: relative;top: -3px;}
+
+label#form-error {
+    position: relative;
+    left: -499px;
+    font-size: 13px;
+    top: 15px;
+}
+
+label#checkbox-error {
+    position: relative;
+    left: -547px;
+    top: 19px;
+    font-size: 13px;
+}
+
+a.forgot {
+    font-size: 11px;
+}
+
+.sing11 {
+    top: -135vh;
+    left: 147vh;
+}

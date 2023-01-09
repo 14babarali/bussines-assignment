@@ -1,0 +1,354 @@
+.container{
+    max-width: 1280px;
+    width: 100%;
+    margin: auto;
+}
+table, th, td {
+    border: 1px solid #aeacac7d;
+    height: 40px;
+    border-collapse: collapse;
+}
+#size {
+    width: 115px;
+    font-family: sans-serif;
+    font-size: 8px;
+    font-weight: 800;
+}
+.tbody1 {
+
+    border: hidden;
+}
+.table {
+    border: 1px solid #aeacac7d;
+    width: 1061px;
+    padding: 3px;
+    padding-right: 82px;
+    padding-left: 82px;
+    height: 669px;
+}
+p.days {
+    position: relative;
+    left: -60px;
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 8px;
+    color: rgb(76 76 97 / 68%);
+    margin: 0;
+    top: -8px;
+}
+p.date {
+    position: relative;
+    left: -63px;
+    top: -9px;
+    font-family: sans-serif;
+    font-size: 19px;
+    color: #000000c2;
+    margin: 0;
+}
+td.blue {
+    color: #2e8ba7;
+    background-color: #6cfdff47;
+    border-left: 4px solid #2e8ba7;
+}
+
+td.purple {
+    color: #6b2f91;
+    background-color: #d2a0ee40;
+    border-left: 5px solid #6b2f91;
+}
+td.red {
+    color: #bc0b0b;
+    background-color: #ff00001c;
+    border-left: 5px solid;
+}
+td.yellow {
+    border-left: 5px solid #eb9d31a8;
+    color: #ee900e;
+    background-color: #ffb30026;
+}
+td.green {
+    color: #11a511;
+    border-left: 5px solid;
+    background-color: #0080001f;
+}
+.emoj {
+    margin: 0;
+    position: relative;
+    top: -11px;
+    right: -37px;
+}
+.emoji2 {
+    margin: 0;
+    position: relative;
+    top: -8px;
+}
+.time1 {
+    margin: 0;
+    position: relative;
+    top: 0px;
+}
+.time2{
+    margin: 0;
+}
+.lorem1 {
+    margin: 0;
+    position: relative;
+    top: -7px;
+}
+.lorem2 {
+    margin: 0;
+    position: relative;
+    top: -20px;
+    right: -14px;
+}
+
+    p.emoji {
+        margin: 0;
+        position: relative;
+        top: -12px;
+        right: -40px;
+    }
+
+.table1 {width: 1053px;}
+table.hight {
+    width: 971px;
+    margin-left: 75px;
+    /* WIDTH: 0; */
+    HEIGHT: 568PX;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: gray;
+}
+.size2{
+    width: 115px;
+}
+tr#same td:nth-child(4) {
+    width: 143px;
+}
+tr#same td:nth-child(2) {
+    width: 143px;
+}
+tr#same td:nth-child(3) {
+    width: 143px;
+}
+
+tr#same td:nth-child(5) {
+    width: 143px;
+}
+
+tr#same  td:nth-child(6) {
+    width: 143px;
+}
+
+tr#same  td:nth-child(7) {
+    width: 143px;
+}
+tr#same {
+    font-size: 21px;
+    font-family: sans-serif;
+    /* margin-left: 246px; */
+}
+.color1{
+    margin: 0;
+}
+.color3{
+    margin: 0;
+}
+.color4{
+    margin: 0;
+}
+td.color {
+    margin: 0;
+    font-size: 18px;
+    color: #00b5ff;
+    background-color: #00e5ff24;
+    border-left: 5px solid;
+}
+td.color1 {
+    margin: 0;
+    color: red;
+    background-color: #ff000024;
+    border-left: 5px solid;
+}
+
+td.color2 {
+    color: orange;
+    background-color: #ffa50030;
+    border-left: 5px solid;
+}
+
+td.color4 {
+    color: purple;
+    background-color: #80008030;
+    border-left: 5px solid;
+}
+
+td.color3 {
+    color: green;
+    background-color: #00800033;
+    border-left: 5px solid;
+}
+td.W {
+    HEIGHT: 187px;
+    WIDTH: 243px;
+    FONT-SIZE: 29px;
+    FONT-FAMILY: sans-serif;
+    TEXT-ALIGN: center;
+    COLOR: #7a7777;
+    /* MARGIN-TOP: 116px; */
+}
+.ui-widget-header {
+    background-color: white;
+    border: none;
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+    background-color: red;
+    border: none;
+    border-radius: 29px;
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+    border: none;
+    border-radius: 10px;
+    /* padding: 26px 58px; */
+}
+
+.ui-tabs .ui-tabs-nav {
+    width: 305px;
+    position: relative;
+    left: -127px;
+    top: 26px;
+}
+ul.UL1 {
+    list-style: none;
+    line-height: 5.7;
+    color: gray;
+    position: relative;
+    top: -546px;
+    left: -87px;
+    font-weight: 100;
+    font-size: 10px;
+}
+ul.UL2 {
+    list-style: none;
+    line-height: 5.7;
+    color: gray;
+    top: -244vh;
+    left: 1030px;
+    font-weight: 100;
+    font-size: 10px;
+    position: relative;
+}
+.blank {
+    height: 599px;
+  top: -1186px;}
+  form.d-flex {
+    POSITION: relative;
+    TOP: -23px;
+    RIGHT: -828px;
+}
+
+input#search {
+    /* FONT-SIZE: 17px; */
+    PADDING: 0px -37px;
+    /* MARGIN: 0px; */
+    WIDTH: 124px;
+    BORDER-RADIUS: -6;
+}
+
+button#btnsearch {
+    BACKGROUND-COLOR: RED;
+    COLOR: WHITE;
+    BORDER: GRAY;
+    PADDING: 4px 12px;
+    FONT-SIZE: 13px;
+    border-radius: 7px;
+}
+
+tr#parent :nth-child(even) {
+   color: red;
+   background-color: #ff00001c;
+   border-left: 5px solid;
+   border-left: 5px solid;
+   border-bottom: 5px solid;
+}
+tr#parent1 :nth-child(odd) {
+    color: red;
+    background-color: #ff00001c;
+    border-left: 5px solid;
+    border-left: 5px solid;
+    border-bottom: 5px solid;
+ }
+ table#hidden {
+    border: hidden;
+}
+
+section.number7 {
+    height: 714px;
+}
+
+div#tabs {
+    width: 62em;
+    position: relative;
+    left: -78px;
+    height: 693px;
+    margin-top: 120px;
+}
+
+
+ul.UL1 li {
+    font-size: 9px;
+    position: relative;
+    left: -22px;
+    top: -26px;
+}
+
+ul.UL2 {
+    position: relative;
+    top: -302vh;
+}
+
+ul.UL2 li {
+    position: relative;
+    left: -31px;
+    top: -162px;
+    font-size: 10px;
+}
+
+
+ul.UL1 {
+    margin: 0;
+    padding: 0;
+    left: -55px;
+}
+
+table.table1 {width: 1000px;}
+
+table.table1 th {
+    position: relative;
+    left: 16px;
+}
+
+ul.UL2 {
+    margin: 0;
+    padding: 0px;
+    position: relative;
+    top: -168vh;
+}
+
+.ui-tabs .ui-tabs-panel {
+    display: block;
+    border-width: 0px;
+    padding: 0px;
+    background: none;
+    position: relative;
+    margin: 0px;
+    top: 30px;
+    left: 0px;
+}
+
+div#tabs-2 {
+    position: relative;
+    left: -67px;
+}
